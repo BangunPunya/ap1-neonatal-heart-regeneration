@@ -1,0 +1,9 @@
+# Results 2-4, figures and the local Result 1 steps
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+# Result 3 notebook (installed inside the notebook on Kaggle)
+# scanpy, leidenalg, igraph
+# Result 1 ChromBPNet notebook (Kaggle GPU image)
+# tensorflow, tf-keras, huggingface_hub

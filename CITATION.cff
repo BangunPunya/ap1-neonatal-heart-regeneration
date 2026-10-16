@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this repository."
+title: "Shared AP-1 spacing grammar, amplified fibroblast response: code to reproduce the results"
+version: 1.0.0
+date-released: 2026-10-16
+license: MIT
+authors:
+  - family-names: Bangun
+    given-names: Adityana Arta
+    affiliation: Universitas Pendidikan Indonesia
+    orcid: "https://orcid.org/0000-0002-4672-5715"
+  - family-names: Priyandoko
+    given-names: Didik
+    affiliation: Universitas Pendidikan Indonesia
+repository-code: "https://github.com/BangunPunya/ap1-neonatal-heart-regeneration"
+keywords: [heart regeneration, neonatal mouse, AP-1, enhancer, fibroblast, scRNA-seq, ChIP-seq]
